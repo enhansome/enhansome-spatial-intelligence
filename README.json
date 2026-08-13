@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "description": "If you find this work helpful for your research, please kindly consider citing our paper:",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vehicle-Based Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Drone-Based Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Robotic Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LiDAR-Only"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camera-Only"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LiDAR-Centric Pre-Training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camera-Centric Pre-Training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unified Pre-Training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Incorporating Additional Sensors: With Radar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Incorporating Additional Sensors: With Event Camera"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text-Grounded Understanding"
+    },
+    {
+      "description": "We thank the authors of the referenced papers for their open-source contributions.",
+      "items": [],
+      "title": "Unified World Representation for Action"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:42.726Z",
+    "original_repository": "worldbench/awesome-spatial-intelligence",
+    "original_repository_sha": "34d201b149344d0a361086b97b5774fb994ab5f9",
+    "enhanced_repository": "enhansome/enhansome-spatial-intelligence",
+    "enhanced_repository_description": null,
+    "title": "Awesome Forging Spatial Intelligence with stars"
+  }
+}
