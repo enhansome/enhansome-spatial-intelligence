@@ -4,7 +4,7 @@
 
 ### A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,577 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,919 | 🐛 105 | 📅 2026-08-21
 [![arXiv](https://img.shields.io/badge/arXiv-2512.24385-b31b1b?style=flat-square\&logo=arxiv)](https://arxiv.org/abs/2512.24385)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench\&repo=awesome-spatial-intelligence\&label=Visitors\&color=yellow\&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-spatial-intelligence/pulls) ⭐ 150 | 🐛 0 | 🌐 HTML | 📅 2026-07-12
@@ -100,7 +100,7 @@ If you find this work helpful for your research, please kindly consider citing o
 |  `CarFusion`  |                               [CVPR'18](https://openaccess.thecvf.com/content_cvpr_2018/html/Reddy_CarFusion_Combining_Point_CVPR_2018_paper.html)                               |     22 Cam     |          3D Vehicle Reconstruction         |          [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://www.cs.cmu.edu/~ILIM/projects/IM/CarFusion/cvpr2018/index.html)          |
 |    `UAVDT`    |                                 [ECCV'18](https://openaccess.thecvf.com/content_ECCV_2018/html/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.html)                                |      1 Cam     |        2D Object Detection/ Tracking       |                              [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://datasetninja.com/uavdt)                              |
 |     `DOTA`    |                                    [CVPR'18](https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.html)                                   |  Multi-Scoure  |             2D Object Detection            |                            [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://captain-whu.github.io/DOTA/)                           |
-|   `VisDrone`  | [TPAMI'21](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Du_VisDrone-DET2019_The_Vision_Meets_Drone_Object_Detection_in_Image_Challenge_ICCVW_2019_paper.pdf) |      1 Cam     |        2D Object Detection/ Tracking       |      [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,507 \| 🐛 51 \| 📅 2023-09-24      |
+|   `VisDrone`  | [TPAMI'21](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Du_VisDrone-DET2019_The_Vision_Meets_Drone_Object_Detection_in_Image_Challenge_ICCVW_2019_paper.pdf) |      1 Cam     |        2D Object Detection/ Tracking       |      [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,508 \| 🐛 51 \| 📅 2023-09-24      |
 |  `DOTA V2.0`  |                                                         [TPAMI'21](https://ieeexplore.ieee.org/abstract/document/9560031)                                                        |  Multi-Scoure  |             2D Object Detection            |                            [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://captain-whu.github.io/DOTA/)                           |
 |   `MOR-UAV`   |                                                            [MM'20](https://dl.acm.org/doi/abs/10.1145/3394171.3413934)                                                           |      1 Cam     |          Moving Object Recognation         |      [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://github.com/murari023/mor-uav) ⭐ 4 \| 🐛 3 \| 🌐 Python \| 📅 2022-11-13      |
 |    `AU-AIR`   |                                                         [ICRA'20](https://ieeexplore.ieee.org/abstract/document/9196845)                                                         |      1 Cam     |             2D Object Detection            |                          [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square\&logo=gitbook)](https://bozcani.github.io/auairdataset)                          |
@@ -372,4 +372,4 @@ We thank the authors of the referenced papers for their open-source contribution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
