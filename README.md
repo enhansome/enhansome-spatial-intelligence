@@ -4,10 +4,10 @@
 
 ### A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,564 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21
 [![arXiv](https://img.shields.io/badge/arXiv-2512.24385-b31b1b?style=flat-square\&logo=arxiv)](https://arxiv.org/abs/2512.24385)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench\&repo=awesome-spatial-intelligence\&label=Visitors\&color=yellow\&style=social)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-spatial-intelligence/pulls) ⭐ 150 | 🐛 0 | 🌐 HTML | 📅 2026-07-12
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-spatial-intelligence/pulls) ⭐ 151 | 🐛 0 | 🌐 HTML | 📅 2026-07-12
 
 | <img width="100%" src="docs/figures/teaser.png" alt="Taxonomy of Spatial Intelligence"> |
 | :-------------------------------------------------------------------------------------: |
@@ -355,7 +355,7 @@ If you find this work helpful for your research, please kindly consider citing o
 |     `FSF-Net`    | [FSF-Net: Enhance 4D occupancy forecasting with coarse BEV scene flow for autonomous driving](https://www.sciencedirect.com/science/article/abs/pii/S0031320325010337)                                                                                                 |   PR 2025  |                                                                                      []()                                                                                     |
 |     `DriveX`     | [DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving](https://arxiv.org/abs/2505.19239)                                                                                                                                       | arXiv 2025 |                                                                                      []()                                                                                     |
 |      `SPOT`      | [SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2309.10527)                                                                                                                                                     | TPAMI 2025 |              [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/3DTrans)](https://github.com/PJLab-ADG/3DTrans) ⭐ 571 \| 🐛 7 \| 🌐 Python \| 📅 2024-01-19             |
-|      `WoTE`      | [End-to-End Driving with Online Trajectory Evaluation via BEV World Model](https://arxiv.org/pdf/2504.01941)                                                                                                                                                           |  ICCV 2025 |            [![GitHub](https://img.shields.io/github/stars/liyingyanUCAS/WoTE)](https://github.com/liyingyanUCAS/WoTE) ⭐ 260 \| 🐛 18 \| 🌐 Python \| 📅 2025-06-29            |
+|      `WoTE`      | [End-to-End Driving with Online Trajectory Evaluation via BEV World Model](https://arxiv.org/pdf/2504.01941)                                                                                                                                                           |  ICCV 2025 |            [![GitHub](https://img.shields.io/github/stars/liyingyanUCAS/WoTE)](https://github.com/liyingyanUCAS/WoTE) ⭐ 261 \| 🐛 18 \| 🌐 Python \| 📅 2025-06-29            |
 |    `FASTopoWM`   | [FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models](https://arxiv.org/abs/2507.23325)                                                                                                                                                      | arXiv 2025 |                [![GitHub](https://img.shields.io/github/stars/YimingYang23/FASTopoWM)](https://github.com/YimingYang23/FASTopoWM) ⭐ 10 \| 🐛 1 \| 📅 2025-08-01               |
 |     `OccTens`    | [OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction](https://arxiv.org/abs/2509.03887)                                                                                                                                                               | arXiv 2025 |                                                                                      []()                                                                                     |
 |     `OccVLA`     | [Occvla: Vision-language-action model with implicit 3d occupancy supervision](https://arxiv.org/abs/2509.05578)                                                                                                                                                        | arXiv 2025 |                                                                                      []()                                                                                     |
@@ -372,4 +372,4 @@ We thank the authors of the referenced papers for their open-source contribution
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
