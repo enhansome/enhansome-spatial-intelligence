@@ -54,7 +54,7 @@
                 "last_commit": "2023-09-24T06:42:49Z",
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2509
+                "stars": 2514
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-11-17T09:57:02Z",
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 206
+                "stars": 207
               }
             }
           ],
@@ -739,7 +739,7 @@
                 "last_commit": "2023-12-16T13:34:26Z",
                 "owner": "youquanl",
                 "repo": "Segment-Any-Point-Cloud",
-                "stars": 636
+                "stars": 637
               }
             },
             {
@@ -1642,7 +1642,7 @@
                 "last_commit": "2026-07-08T09:44:43Z",
                 "owner": "liulin815",
                 "repo": "DriveWorld-VLA",
-                "stars": 121
+                "stars": 122
               }
             },
             {
@@ -1672,7 +1672,7 @@
                 "last_commit": "2026-05-28T08:53:45Z",
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 468
+                "stars": 469
               }
             }
           ],
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:18:34.218Z",
+    "last_updated": "2026-08-26T19:27:16.956Z",
     "original_repository": "worldbench/awesome-spatial-intelligence",
     "original_repository_id": 1052150960,
     "original_repository_sha": "34d201b149344d0a361086b97b5774fb994ab5f9",
