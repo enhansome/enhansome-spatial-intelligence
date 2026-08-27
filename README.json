@@ -54,7 +54,7 @@
                 "last_commit": "2023-09-24T06:42:49Z",
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2514
+                "stars": 2516
               }
             },
             {
@@ -1016,7 +1016,7 @@
                 "last_commit": "2024-05-31T01:57:02Z",
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -1365,7 +1365,7 @@
                 "last_commit": "2023-10-27T15:57:18Z",
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 846
+                "stars": 847
               }
             },
             {
@@ -1410,7 +1410,7 @@
                 "last_commit": "2025-02-03T21:45:08Z",
                 "owner": "nv-dvl",
                 "repo": "segment-anything-lidar",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -1537,7 +1537,7 @@
                 "last_commit": "2024-05-31T01:57:02Z",
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -1685,9 +1685,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:16.956Z",
-    "original_repository": "worldbench/awesome-spatial-intelligence",
-    "original_repository_id": 1052150960,
+    "last_updated": "2026-08-27T12:03:35.976Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1052150960,
+      "language": "HTML",
+      "last_commit": "2026-07-12T08:00:00Z",
+      "owner": "worldbench",
+      "repo": "awesome-spatial-intelligence",
+      "stars": 151
+    },
     "original_repository_sha": "34d201b149344d0a361086b97b5774fb994ab5f9",
     "enhanced_repository": "enhansome/enhansome-spatial-intelligence",
     "enhanced_repository_description": null,
