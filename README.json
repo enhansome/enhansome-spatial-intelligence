@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Autonomous Driving Dataset from I2R, A*STAR",
+                "homepage": null,
                 "id": 208394286,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-19T09:24:09Z",
+                "open_issues": 6,
                 "owner": "I2RDL2",
                 "repo": "ASTAR-3D",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 696310366,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-15T03:21:47Z",
+                "open_issues": 21,
                 "owner": "adept-thu",
                 "repo": "Dual-Radar",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dataset for drone based detection and tracking is released, including both image/video, and annotations. ",
+                "homepage": null,
                 "id": 204825495,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-24T06:42:49Z",
+                "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2518
+                "stars": 2518,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 565188754,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-13T09:07:18Z",
+                "open_issues": 3,
                 "owner": "murari023",
                 "repo": "mor-uav",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -83,12 +103,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥Urban-scale point cloud dataset (CVPR 2021 & IJCV 2022)",
+                "homepage": null,
                 "id": 293525275,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-07-22T02:34:45Z",
+                "open_issues": 55,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 582
+                "stars": 582,
+                "topics": [
+                  "benchmark",
+                  "city-modeling",
+                  "dataset",
+                  "large-scale",
+                  "photogrammetry",
+                  "pointcloud",
+                  "urban-scale"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -99,12 +132,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab implementation of ADTrack for TSP",
+                "homepage": null,
                 "id": 320442873,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-01-23T05:49:23Z",
+                "open_issues": 5,
                 "owner": "vision4robotics",
                 "repo": "ADTrack_v2",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "benchmark",
+                  "matlab",
+                  "trackers",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -115,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 767335431,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-04T12:33:03Z",
+                "open_issues": 4,
                 "owner": "RuiXing123",
                 "repo": "PDT_CWC_YOLO-DP",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -131,12 +179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV 2025) UAVScenes: A Multi-Modal Dataset for UAVs",
+                "homepage": null,
                 "id": 1023380719,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-17T09:57:02Z",
+                "open_issues": 11,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -154,12 +207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACM MM 2022] Official Rail-DB and Rail-Net",
+                "homepage": null,
                 "id": 466606938,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-17T12:32:55Z",
+                "open_issues": 2,
                 "owner": "Sampson-Lee",
                 "repo": "Rail-Detection",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -170,12 +228,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rail3D: Multi-Context Point Cloud Dataset and New Approach for Railways Semantic Understanding",
+                "homepage": null,
                 "id": 719557391,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-16T10:54:53Z",
+                "open_issues": 2,
                 "owner": "akharroubi",
                 "repo": "Rail3D",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "change-detection",
+                  "machine-learning",
+                  "semantic-segmenation"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -186,12 +253,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(IEEE TITS 2024) WHU-Railway3D: A Diverse Dataset and Benchmark for Railway Point Cloud Semantic Segmentation",
+                "homepage": null,
                 "id": 639791728,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-13T08:45:43Z",
+                "open_issues": 2,
                 "owner": "WHU-USI3DV",
                 "repo": "WHU-Railway3D",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "dataset"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -202,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dataset for floating waste detection in inland waters.",
+                "homepage": null,
                 "id": 307691240,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-05T06:44:13Z",
+                "open_issues": 8,
                 "owner": "ORCAUBOAT",
                 "repo": "FloW-Dataset",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -218,12 +297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of ASV dataset for detection and segmentation of LiDAR sensor",
+                "homepage": null,
                 "id": 391389651,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-20T20:12:08Z",
+                "open_issues": 0,
                 "owner": "dartmouthrobotics",
                 "repo": "asv_detection_dataset",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -234,12 +318,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for WaterScenes dataset",
+                "homepage": "https://waterscenes.github.io",
                 "id": 607622905,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-10T15:13:36Z",
+                "open_issues": 1,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "4d-radar",
+                  "dataset",
+                  "marine",
+                  "radar-camera",
+                  "radar-camera-fusion",
+                  "transportation-systems",
+                  "water-surface"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -250,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dataset used for marine vessel detection",
+                "homepage": null,
                 "id": 532264590,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-19T02:57:21Z",
+                "open_issues": 3,
                 "owner": "yyuanwang1010",
                 "repo": "MVDD13",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -266,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of OmniTrack: Omnidirectional Multi-Object Tracking (CVPR 2025)",
+                "homepage": null,
                 "id": 939725422,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-08-27T06:48:08Z",
+                "open_issues": 3,
                 "owner": "xifen523",
                 "repo": "OmniTrack",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -282,12 +389,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation for \"OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera\"",
+                "homepage": null,
                 "id": 1090765085,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-11-06T05:46:57Z",
+                "open_issues": 1,
                 "owner": "MasterHow",
                 "repo": "OneOcc",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "dataset",
+                  "embodied-ai",
+                  "legged-robots",
+                  "occupancy-prediction",
+                  "omnidirectional-vision",
+                  "panorama",
+                  "quadruped-robot",
+                  "robotics",
+                  "semantic-scene-completion"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -311,12 +433,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for paper <PointContrast: Unsupervised Pretraining for 3D Point Cloud Understanding>",
+                "homepage": null,
                 "id": 291783473,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-30T20:44:17Z",
+                "open_issues": 19,
                 "owner": "facebookresearch",
                 "repo": "PointContrast",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -327,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DepthContrast self-supervised learning for 3D",
+                "homepage": null,
                 "id": 318294222,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-30T21:51:39Z",
+                "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "DepthContrast",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -343,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for CVPR 2021 oral paper \"Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts\"",
+                "homepage": null,
                 "id": 362273426,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-30T13:36:57Z",
+                "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "ContrastiveSceneContexts",
-                "stars": 239
+                "stars": 239,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -359,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 444208528,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-09T10:56:42Z",
+                "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "segcontrast",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -375,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding",
+                "homepage": null,
                 "id": 771496984,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-15T06:31:54Z",
+                "open_issues": 4,
                 "owner": "JIA-Lab-research",
                 "repo": "GroupContrast",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -391,12 +538,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the PyTorch implementation of the ECCV'2022 paper, ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection.",
+                "homepage": null,
                 "id": 515881542,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-07T04:51:12Z",
+                "open_issues": 4,
                 "owner": "yinjunbo",
                 "repo": "ProposalContrast",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "lidar-point-cloud",
+                  "object-detection",
+                  "self-supervised-learning",
+                  "unsupe",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -407,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of our TIV'23 paper:  Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders",
+                "homepage": null,
                 "id": 505365670,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-19T05:17:12Z",
+                "open_issues": 21,
                 "owner": "chaytonmin",
                 "repo": "Occupancy-MAE",
-                "stars": 283
+                "stars": 283,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -423,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ALSO: Automotive Lidar Self-supervision by Occupancy estimation",
+                "homepage": null,
                 "id": 574991438,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-24T09:26:03Z",
+                "open_issues": 8,
                 "owner": "valeoai",
                 "repo": "ALSO",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -439,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds (CVPR 2023)",
+                "homepage": null,
                 "id": 574876793,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-18T02:59:27Z",
+                "open_issues": 10,
                 "owner": "Nightmare-n",
                 "repo": "GD-MAE",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -455,12 +628,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source codebase for exploring autonomous driving pre-training",
+                "homepage": "https://bobrown.github.io/Team_3DTrans.github.io/",
                 "id": 611330076,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-19T09:25:11Z",
+                "open_issues": 7,
                 "owner": "PJLab-ADG",
                 "repo": "3DTrans",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "3d-da",
+                  "3d-pretraining"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -471,12 +652,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based Self-Supervised Pre-Training",
+                "homepage": "https://arxiv.org/abs/2303.13510",
                 "id": 614690060,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-04T07:25:00Z",
+                "open_issues": 2,
                 "owner": "RunsenXu",
                 "repo": "MV-JAR",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "3d-detection",
+                  "lidar",
+                  "mae",
+                  "point-cloud",
+                  "pre-training"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -487,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of our TIV'23 paper:  Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders",
+                "homepage": null,
                 "id": 505365670,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-19T05:17:12Z",
+                "open_issues": 21,
                 "owner": "chaytonmin",
                 "repo": "Occupancy-MAE",
-                "stars": 283
+                "stars": 283,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -503,12 +700,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV2023 - CORE: Cooperative Reconstruction for Multi-Agent Perception",
+                "homepage": null,
                 "id": 666780272,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-25T07:24:27Z",
+                "open_issues": 4,
                 "owner": "zllxot",
                 "repo": "CORE",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "autonomous-driving",
+                  "multi-agent-perception",
+                  "reconstruction",
+                  "vehicle-to-vehicle"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -519,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2024] BEV-MAE: Bird's Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios",
+                "homepage": null,
                 "id": 576543862,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-07T06:47:14Z",
+                "open_issues": 4,
                 "owner": "VDIGPKU",
                 "repo": "BEV-MAE",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -535,12 +747,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026] AD-L-JEPA: Self-Supervised Representation Learning with Joint Embedding Predictive Architecture for Automotive LiDAR Object Detection",
+                "homepage": null,
                 "id": 914073389,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-18T04:46:15Z",
+                "open_issues": 0,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "autonomous-driving",
+                  "lidar-point-cloud",
+                  "pre-training",
+                  "self-supervised-learning",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -551,12 +774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds - Official PyTorch implementation",
+                "homepage": null,
                 "id": 708851742,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-04T15:26:06Z",
+                "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "BEVContrast",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -567,12 +795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding, ECCV 2022",
+                "homepage": null,
                 "id": 514288543,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-07-19T14:42:53Z",
+                "open_issues": 0,
                 "owner": "TerenceCYJ",
                 "repo": "4DContrast",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -583,12 +816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Official implementation of T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning",
+                "homepage": null,
                 "id": 825823705,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-26T07:37:45Z",
+                "open_issues": 1,
                 "owner": "codename1995",
                 "repo": "T-MAE",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -599,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIT: Unsupervised Online Instance Segmentation through Time - Official PyTorch implementation",
+                "homepage": null,
                 "id": 849434479,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-05T11:52:08Z",
+                "open_issues": 2,
                 "owner": "valeoai",
                 "repo": "UNIT",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -615,12 +858,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICASSP 2025]: Generative Sensing: Pre-training LiDAR with Masked Autoencoders for Ultra-Frugal Perception",
+                "homepage": null,
                 "id": 738755195,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-26T01:28:59Z",
+                "open_issues": 1,
                 "owner": "sinatayebati",
                 "repo": "R-MAE",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "autoencoder",
+                  "lidar-point-cloud",
+                  "masked-autoencoder",
+                  "point-cloud",
+                  "pretrained-models"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -631,12 +885,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction.",
+                "homepage": null,
                 "id": 1021805266,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-31T00:43:19Z",
+                "open_issues": 1,
                 "owner": "ucla-mobility",
                 "repo": "TurboTrain",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "autonomous-driving",
+                  "multi-agent-system",
+                  "multi-task-learning",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -647,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2023: Official code for `Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'",
+                "homepage": "https://www.cs.cmu.edu/~tkhurana/ff4d/index.html",
                 "id": 605800415,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-11T14:33:24Z",
+                "open_issues": 6,
                 "owner": "tarashakhurana",
                 "repo": "4d-occ-forecasting",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -663,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS 2025] Official Repo for CooPre: Cooperative Pretraining for V2X Cooperative Perception",
+                "homepage": null,
                 "id": 958095425,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-31T00:43:43Z",
+                "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "CooPre",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -686,12 +960,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "INoD: Injected Noise Discriminator for Self-Supervised Representation Learning in Agricultural Fields.",
+                "homepage": "http://inod.cs.uni-freiburg.de/",
                 "id": 654568187,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-22T11:02:18Z",
+                "open_issues": 0,
                 "owner": "robot-learning-freiburg",
                 "repo": "INoD",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -702,12 +981,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Pytorch code for our ECCV'24 paper NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields",
+                "homepage": "https://nerf-mae.github.io/",
                 "id": 778034087,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-20T14:29:57Z",
+                "open_issues": 0,
                 "owner": "zubair-irshad",
                 "repo": "NeRF-MAE",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "3d",
+                  "3d-deep-learning",
+                  "3d-detection",
+                  "3d-unet",
+                  "differentiable-rendering",
+                  "feature-pyramid-network",
+                  "instant-ngp",
+                  "masked-autoencoder",
+                  "multi-view",
+                  "nerf",
+                  "neural-radiance-fields",
+                  "neural-rendering",
+                  "region-proposal-network",
+                  "representation-learning",
+                  "self-supervised-learning",
+                  "semantic-segmantation",
+                  "super-resoluion",
+                  "transformers",
+                  "vision-transformers",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -731,12 +1036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data\"",
+                "homepage": null,
                 "id": 468003416,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-07T09:39:35Z",
+                "open_issues": 0,
                 "owner": "valeoai",
                 "repo": "SLidR",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -747,12 +1057,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2021] Official Implementation of \"SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations\"",
+                "homepage": null,
                 "id": 411678587,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-05T01:31:17Z",
+                "open_issues": 6,
                 "owner": "zhyever",
                 "repo": "SimIPU",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "aaai",
+                  "aaai2021",
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -763,12 +1082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders",
+                "homepage": null,
                 "id": 577860135,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-10T05:33:00Z",
+                "open_issues": 7,
                 "owner": "ZrrSkywalker",
                 "repo": "I2P-MAE",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -779,12 +1103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models",
+                "homepage": "https://ldkong.com/Seal",
                 "id": 645318405,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-16T13:34:26Z",
+                "open_issues": 8,
                 "owner": "youquanl",
                 "repo": "Segment-Any-Point-Cloud",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -795,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'25] Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations",
+                "homepage": "https://xiangxu-0103.github.io/LiMA",
                 "id": 1008696333,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-27T01:59:59Z",
+                "open_issues": 0,
                 "owner": "Xiangxu-0103",
                 "repo": "LiMA",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -811,12 +1145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] This is official implementation of our CVPR 2024 paper \"Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception\" https://arxiv.org/abs/2405.07201",
+                "homepage": null,
                 "id": 776762758,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-11T05:58:57Z",
+                "open_issues": 3,
                 "owner": "chenhaomingbob",
                 "repo": "CSC",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -827,12 +1166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 758341063,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-16T05:54:51Z",
+                "open_issues": 1,
                 "owner": "tydpan",
                 "repo": "GPC",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -843,12 +1187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 855354457,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-10T18:29:57Z",
+                "open_issues": 0,
                 "owner": "qcraftai",
                 "repo": "cross-modal-ssl",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -859,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] 4D Contrastive Superflows are Dense 3D Representation Learners",
+                "homepage": "https://arxiv.org/abs/2407.06190",
                 "id": 822871271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-04T00:35:33Z",
+                "open_issues": 1,
                 "owner": "worldbench",
                 "repo": "SuperFlow",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -875,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 551838251,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-06T08:37:07Z",
+                "open_issues": 2,
                 "owner": "zhangsha1024",
                 "repo": "HVDistill",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -891,12 +1250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Shelf-Supervised Cross-Modal Pre-Training for 3D Object Detection\". Presented at CoRL 2024",
+                "homepage": "https://meharkhurana03.github.io/cm3d/",
                 "id": 853104503,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-30T03:48:29Z",
+                "open_issues": 1,
                 "owner": "meharkhurana03",
                 "repo": "cm3d",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -907,12 +1271,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models (NeurIPS2024)",
+                "homepage": "https://arxiv.org/abs/2405.14271",
                 "id": 804754815,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-22T12:20:42Z",
+                "open_issues": 2,
                 "owner": "Eaphan",
                 "repo": "OLIVINE",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "3d-representation-learning",
+                  "3d-scene-understanding",
+                  "contrastive-distillation",
+                  "nuscenes",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -923,12 +1298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving",
+                "homepage": null,
                 "id": 946084734,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-04T21:29:14Z",
+                "open_issues": 2,
                 "owner": "LiljaAdam",
                 "repo": "gasp",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -946,12 +1326,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of DD3D: Is Pseudo-Lidar needed for Monocular 3D Object detection? (ICCV 2021), Dennis Park*, Rares Ambrus*, Vitor Guizilini, Jie Li, and Adrien Gaidon.",
+                "homepage": null,
                 "id": 390157170,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-29T21:17:39Z",
+                "open_issues": 43,
                 "owner": "TRI-ML",
                 "repo": "dd3d",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -962,12 +1351,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] OccNet: Scene as Occupancy",
+                "homepage": "https://arxiv.org/abs/2306.02851",
                 "id": 649245260,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:22:29Z",
+                "open_issues": 26,
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 704
+                "stars": 704,
+                "topics": [
+                  "3d-object-detection",
+                  "3d-occupancy",
+                  "autonomous-driving"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -978,12 +1376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] GeoMIM: towards better 3d knowledge transfer via masked image modeling for multi-view 3d understanding",
+                "homepage": null,
                 "id": 683967537,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-28T08:09:47Z",
+                "open_issues": 2,
                 "owner": "Sense-X",
                 "repo": "GeoMIM",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -994,12 +1397,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IEEE T-PAMI 2023] Awesome BEV perception research and cookbook for all level audience in autonomous diriving",
+                "homepage": "https://doi.org/10.1109/TPAMI.2023.3333838",
                 "id": 526974787,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-21T02:34:06Z",
+                "open_issues": 3,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1381
+                "stars": 1381,
+                "topics": [
+                  "autonomous-driving",
+                  "birds-eye-view",
+                  "camera-detection",
+                  "lidar-detection",
+                  "perception-algorithm"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1010,12 +1424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving",
+                "homepage": null,
                 "id": 647050431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-15T01:55:53Z",
+                "open_issues": 4,
                 "owner": "chaytonmin",
                 "repo": "UniScene",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1026,12 +1445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction",
+                "homepage": null,
                 "id": 721141816,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-05T12:27:37Z",
+                "open_issues": 18,
                 "owner": "huang-yh",
                 "repo": "SelfOcc",
-                "stars": 389
+                "stars": 389,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1042,12 +1466,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] Visual Point Cloud Forecasting",
+                "homepage": "https://arxiv.org/abs/2312.17655",
                 "id": 728532286,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:29:05Z",
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "autonomous-driving",
+                  "point-cloud-forecasting",
+                  "pre-training",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1058,12 +1492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] 3D World Model for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccWorld/",
                 "id": 722421287,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T08:22:17Z",
+                "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1074,12 +1513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccSora/",
                 "id": 807377343,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T01:57:02Z",
+                "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1090,12 +1534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCV 2025] MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning",
+                "homepage": null,
                 "id": 771379883,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-30T10:10:48Z",
+                "open_issues": 2,
                 "owner": "hustvl",
                 "repo": "MIM4D",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1106,12 +1555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GussianPretrain for Visual Pre-training in Autonomous Driving, showcasing significant improvements across various 3D perception tasks, including 3D object detection, HD-map construction, and Occupancy prediction.",
+                "homepage": null,
                 "id": 891281965,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-04T06:49:10Z",
+                "open_issues": 12,
                 "owner": "Public-BOTs",
                 "repo": "GaussianPretrain",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1122,12 +1576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception",
+                "homepage": null,
                 "id": 950081757,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-26T09:12:01Z",
+                "open_issues": 1,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1138,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV 2025) GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting",
+                "homepage": "https://ganwanshui.github.io/GaussianOcc/",
                 "id": 845625355,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-17T13:41:47Z",
+                "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 382
+                "stars": 382,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1154,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding",
+                "homepage": "https://hustvl.github.io/GaussTR/",
                 "id": 904786444,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-05T06:16:47Z",
+                "open_issues": 1,
                 "owner": "hustvl",
                 "repo": "GaussTR",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1170,12 +1639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features",
+                "homepage": "https://distillnerf.github.io/",
                 "id": 814741112,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-05T17:55:37Z",
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "distillnerf",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -1193,12 +1667,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[T-PAMI 2025] PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm",
+                "homepage": "https://arxiv.org/abs/2310.08586",
                 "id": 704527130,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T06:33:23Z",
+                "open_issues": 0,
                 "owner": "OpenGVLab",
                 "repo": "PonderV2",
-                "stars": 377
+                "stars": 377,
+                "topics": [
+                  "3d-vision",
+                  "foundation-models",
+                  "pretraining"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1209,12 +1692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniPAD: A Universal Pre-training Paradigm for Autonomous Driving (CVPR 2024)",
+                "homepage": "https://arxiv.org/abs/2310.08370",
                 "id": 704370807,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-09T03:13:09Z",
+                "open_issues": 5,
                 "owner": "Nightmare-n",
                 "repo": "UniPAD",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1225,12 +1713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2024] UniM2AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving",
+                "homepage": null,
                 "id": 675376647,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-04T23:52:16Z",
+                "open_issues": 3,
                 "owner": "hollow-503",
                 "repo": "UniM2AE",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1241,12 +1734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CASE 2025] A Simple Yet Unified Self-supervised Pre-training Strategy for LiDAR-Camera 3D Perception",
+                "homepage": "https://arxiv.org/abs/2405.17942",
                 "id": 853926327,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-07T07:19:13Z",
+                "open_issues": 0,
                 "owner": "Xiaohao-Xu",
                 "repo": "Unified-Pretrain-AD",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1257,12 +1755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 822375400,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-09T02:31:16Z",
+                "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1273,12 +1776,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation",
+                "homepage": "https://arxiv.org/abs/2501.14729",
                 "id": 921468271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T03:05:38Z",
+                "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "autonomous-driving",
+                  "worldmodel"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1289,12 +1800,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2025] LRS4Fusion: Self-Supervised Sparse Sensor Fusion for Long Range Perception",
+                "homepage": "https://light.princeton.edu/publication/lrs4fusion/",
                 "id": 1030481195,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-20T06:51:35Z",
+                "open_issues": 1,
                 "owner": "princeton-computational-imaging",
                 "repo": "LRS4Fusion",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "3d-perception",
+                  "autonomous-driving",
+                  "lidar-forecasting",
+                  "long-range-perception",
+                  "multi-sensor-fusion",
+                  "object-detection",
+                  "occupancy-forecasting",
+                  "occupancy-prediction",
+                  "scene-representation",
+                  "self-supervision",
+                  "sparse-representation"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -1312,12 +1840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "4D-ROLLS: 4D Radar Occupancy Learning via Lidar Supervision",
+                "homepage": null,
                 "id": 940959057,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-01T06:20:17Z",
+                "open_issues": 2,
                 "owner": "CLASS-Lab",
                 "repo": "4D-ROLLS",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1328,12 +1861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2024: Bootstrapping Autonomous Driving Radars with Self-Supervised Learning",
+                "homepage": null,
                 "id": 778023151,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-28T01:17:29Z",
+                "open_issues": 3,
                 "owner": "yiduohao",
                 "repo": "Radical",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -1351,12 +1889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 585076175,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-25T04:04:03Z",
+                "open_issues": 6,
                 "owner": "Yan98",
                 "repo": "Event-Camera-Data-Pre-training",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1367,12 +1910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Masked Event Modeling: Self-Supervised Pretraining for Event Cameras (WACV '24)",
+                "homepage": "https://arxiv.org/abs/2212.10368",
                 "id": 713443199,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-19T10:37:10Z",
+                "open_issues": 0,
                 "owner": "tum-vision",
                 "repo": "mem",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1383,12 +1931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 829259045,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-14T15:04:38Z",
+                "open_issues": 4,
                 "owner": "Yan98",
                 "repo": "Event-Camera-Data-Dense-Pre-training",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1399,12 +1952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Official implementation of the paper \"EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding\".",
+                "homepage": "https://vlislab22.github.io/EventBind/",
                 "id": 660646379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-09T03:32:32Z",
+                "open_issues": 1,
                 "owner": "jiazhou-garland",
                 "repo": "EventBind",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -1428,12 +1986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 618278085,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-05T13:45:22Z",
+                "open_issues": 14,
                 "owner": "runnanchen",
                 "repo": "CLIP2Scene",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1444,12 +2007,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies",
+                "homepage": "https://pengsongyou.github.io/openscene",
                 "id": 615653374,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-27T15:57:18Z",
+                "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 847
+                "stars": 847,
+                "topics": [
+                  "3d-scene-understanding",
+                  "clip",
+                  "cvpr2023",
+                  "llm",
+                  "matterport3d",
+                  "nuscenes",
+                  "point-cloud-segmentation",
+                  "point-clouds",
+                  "scannet",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1460,12 +2039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for NeurIPS paper \"POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images\"",
+                "homepage": "https://vobecant.github.io/POP3D/",
                 "id": 709842234,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-07T11:06:12Z",
+                "open_issues": 1,
                 "owner": "vobecant",
                 "repo": "POP3D",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1476,12 +2060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper ‘VLM2Scene: Self-Supervised Image-Text-LiDAR Learning with Foundation Models for Autonomous Driving Scene Understanding’ (AAAI'2024)",
+                "homepage": null,
                 "id": 732037643,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-15T13:48:45Z",
+                "open_issues": 2,
                 "owner": "gbliao",
                 "repo": "VLM2Scene",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1492,12 +2081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Better Call SAL: Towards Learning to Segment Anything in Lidar",
+                "homepage": "https://research.nvidia.com/labs/dvl/projects/sal/",
                 "id": 833294363,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-03T21:45:08Z",
+                "open_issues": 9,
                 "owner": "nv-dvl",
                 "repo": "segment-anything-lidar",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1508,12 +2102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 769578872,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-22T06:35:39Z",
+                "open_issues": 0,
                 "owner": "sbysbysbys",
                 "repo": "AFOV",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1524,12 +2123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 649668904,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-14T08:34:25Z",
+                "open_issues": 7,
                 "owner": "dzcgaara",
                 "repo": "OVO-Open-Vocabulary-Occupancy",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1540,12 +2144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 916498846,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-08-06T08:26:52Z",
+                "open_issues": 2,
                 "owner": "boschresearch",
                 "repo": "LangOcc",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1556,12 +2165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Language Driven Occupancy Prediction",
+                "homepage": null,
                 "id": 893797620,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-23T08:08:46Z",
+                "open_issues": 2,
                 "owner": "pkqbajng",
                 "repo": "LOcc",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1572,12 +2186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 650232987,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-19T09:37:36Z",
+                "open_issues": 3,
                 "owner": "runnanchen",
                 "repo": "Label-Free-Scene-Understanding",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -1595,12 +2214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] 3D World Model for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccWorld/",
                 "id": 722421287,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T08:22:17Z",
+                "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1611,12 +2235,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving ",
+                "homepage": "https://opendrivelab.com/AutonomousDriving",
                 "id": 632101482,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
+                "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "autonomous-driving",
+                  "embodied-ai",
+                  "foundation-model",
+                  "general-artificial-intelligence",
+                  "large-dataset",
+                  "policy-learning",
+                  "video-dataset",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1627,12 +2266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccSora/",
                 "id": 807377343,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T01:57:02Z",
+                "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1643,12 +2287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving",
+                "homepage": "https://drive-occworld.github.io/",
                 "id": 901338212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-10T03:01:47Z",
+                "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1659,12 +2308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICLR2025) Enhancing End-to-End Autonomous Driving with Latent World Model",
+                "homepage": null,
                 "id": 813988509,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-29T03:48:48Z",
+                "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 387
+                "stars": 387,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1675,12 +2329,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source codebase for exploring autonomous driving pre-training",
+                "homepage": "https://bobrown.github.io/Team_3DTrans.github.io/",
                 "id": 611330076,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-19T09:25:11Z",
+                "open_issues": 7,
                 "owner": "PJLab-ADG",
                 "repo": "3DTrans",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "3d-da",
+                  "3d-pretraining"
+                ]
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1691,12 +2353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV2025) End-to-End Driving with Online Trajectory Evaluation via BEV World Model",
+                "homepage": null,
                 "id": 957745125,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-29T03:43:19Z",
+                "open_issues": 18,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1707,12 +2374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official project repository for \"FASTopo: Fast-Slow Lane Segment Topology Reasoning with Latent World Models\"",
+                "homepage": null,
                 "id": 1016539031,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-01T08:01:11Z",
+                "open_issues": 1,
                 "owner": "YimingYang23",
                 "repo": "FASTopoWM",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1723,12 +2395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025]",
+                "homepage": null,
                 "id": 924014243,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-31T15:00:36Z",
+                "open_issues": 6,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1739,12 +2416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical repository of DriveWorld-VLA",
+                "homepage": null,
                 "id": 1147013106,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-08T09:44:43Z",
+                "open_issues": 7,
                 "owner": "liulin815",
                 "repo": "DriveWorld-VLA",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1755,12 +2437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1192582800,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-26T04:51:01Z",
+                "open_issues": 3,
                 "owner": "LogosRoboticsGroup",
                 "repo": "UniWorldVLA",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             },
@@ -1771,12 +2458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1225134839,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-28T08:53:45Z",
+                "open_issues": 3,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 469
+                "stars": 469,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
             }
@@ -1790,15 +2482,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:23.391Z",
+    "last_updated": "2026-08-29T04:53:11.005Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
+      "homepage": "https://worldbench.github.io/awesome-spatial-intelligence",
       "id": 1052150960,
       "language": "HTML",
+      "license": "MIT",
       "last_commit": "2026-07-12T08:00:00Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-spatial-intelligence",
-      "stars": 151
+      "stars": 151,
+      "topics": [
+        "3d",
+        "4d",
+        "autonomous-driving",
+        "awesome-list",
+        "embodied-ai",
+        "lidar",
+        "lidar-point-cloud",
+        "llm",
+        "mllm",
+        "multimodal-learning",
+        "occupancy",
+        "planning",
+        "pretrained-models",
+        "spatial-intelligence",
+        "vision-language",
+        "vision-language-models",
+        "vlm"
+      ]
     },
     "original_repository_sha": "34d201b149344d0a361086b97b5774fb994ab5f9",
     "enhanced_repository": "enhansome/enhansome-spatial-intelligence",

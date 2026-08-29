@@ -4,7 +4,7 @@
 
 ### A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,863 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21
 [![arXiv](https://img.shields.io/badge/arXiv-2512.24385-b31b1b?style=flat-square\&logo=arxiv)](https://arxiv.org/abs/2512.24385)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench\&repo=awesome-spatial-intelligence\&label=Visitors\&color=yellow\&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-spatial-intelligence/pulls) ⭐ 151 | 🐛 0 | 🌐 HTML | 📅 2026-07-12
