@@ -216,7 +216,7 @@
                 "open_issues": 2,
                 "owner": "Sampson-Lee",
                 "repo": "Rail-Detection",
-                "stars": 95,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1238,7 +1238,7 @@
                 "open_issues": 2,
                 "owner": "zhangsha1024",
                 "repo": "HVDistill",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1475,7 +1475,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -1785,7 +1785,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:01:04.388Z",
+    "last_updated": "2026-08-30T20:07:38.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
