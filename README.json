@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2522,
+                "stars": 2524,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -327,7 +327,7 @@
                 "open_issues": 1,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "4d-radar",
                   "dataset",
@@ -756,7 +756,7 @@
                 "open_issues": 0,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -990,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "zubair-irshad",
                 "repo": "NeRF-MAE",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "3d",
                   "3d-deep-learning",
@@ -1151,7 +1151,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-06-11T05:58:57Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "chenhaomingbob",
                 "repo": "CSC",
                 "stars": 17,
@@ -1543,7 +1543,7 @@
                 "open_issues": 2,
                 "owner": "hustvl",
                 "repo": "MIM4D",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1564,7 +1564,7 @@
                 "open_issues": 12,
                 "owner": "Public-BOTs",
                 "repo": "GaussianPretrain",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1785,7 +1785,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -2404,7 +2404,7 @@
                 "open_issues": 6,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:04:26.523Z",
+    "last_updated": "2026-09-01T20:10:52.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
