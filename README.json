@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2529,
+                "stars": 2530,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 55,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 583,
+                "stars": 584,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "RuiXing123",
                 "repo": "PDT_CWC_YOLO-DP",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -216,7 +216,7 @@
                 "open_issues": 2,
                 "owner": "Sampson-Lee",
                 "repo": "Rail-Detection",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1606,7 +1606,7 @@
                 "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1701,7 +1701,7 @@
                 "open_issues": 5,
                 "owner": "Nightmare-n",
                 "repo": "UniPAD",
-                "stars": 205,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1961,7 +1961,7 @@
                 "open_issues": 1,
                 "owner": "jiazhou-garland",
                 "repo": "EventBind",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:09:45.341Z",
+    "last_updated": "2026-09-04T19:55:17.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
@@ -2494,7 +2494,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-spatial-intelligence",
-      "stars": 153,
+      "stars": 154,
       "topics": [
         "3d",
         "4d",
