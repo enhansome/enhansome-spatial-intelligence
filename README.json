@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2530,
+                "stars": 2531,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1785,7 +1785,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:55:17.992Z",
+    "last_updated": "2026-09-05T19:35:34.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
