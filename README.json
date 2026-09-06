@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2531,
+                "stars": 2532,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:35:34.436Z",
+    "last_updated": "2026-09-06T19:37:26.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
