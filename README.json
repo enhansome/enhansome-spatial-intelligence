@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2532,
+                "stars": 2535,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "RuiXing123",
                 "repo": "PDT_CWC_YOLO-DP",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 581,
+                "stars": 582,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1560,7 +1560,7 @@
                 "id": 891281965,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2025-12-04T06:49:10Z",
+                "last_commit": "2026-09-07T15:23:12Z",
                 "open_issues": 12,
                 "owner": "Public-BOTs",
                 "repo": "GaussianPretrain",
@@ -2223,7 +2223,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 581,
+                "stars": 582,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:37:26.545Z",
+    "last_updated": "2026-09-07T20:48:31.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
