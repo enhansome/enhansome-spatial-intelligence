@@ -188,7 +188,7 @@
                 "open_issues": 11,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 208,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -377,7 +377,7 @@
                 "open_issues": 3,
                 "owner": "xifen523",
                 "repo": "OmniTrack",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:04:02.235Z",
+    "last_updated": "2026-09-10T20:06:35.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
