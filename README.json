@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2542,
+                "stars": 2545,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -216,7 +216,7 @@
                 "open_issues": 2,
                 "owner": "Sampson-Lee",
                 "repo": "Rail-Detection",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -595,7 +595,7 @@
                 "open_issues": 8,
                 "owner": "valeoai",
                 "repo": "ALSO",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -756,7 +756,7 @@
                 "open_issues": 0,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1406,7 +1406,7 @@
                 "open_issues": 3,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1383,
+                "stars": 1384,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -1501,7 +1501,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 848,
+                "stars": 849,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2223,7 +2223,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:06:35.977Z",
+    "last_updated": "2026-09-11T20:05:23.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
