@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2547,
+                "stars": 2548,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -188,7 +188,7 @@
                 "open_issues": 11,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -285,7 +285,7 @@
                 "open_issues": 8,
                 "owner": "ORCAUBOAT",
                 "repo": "FloW-Dataset",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1522,7 +1522,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2275,7 +2275,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 18,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2404,7 +2404,7 @@
                 "open_issues": 6,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 3,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 471,
+                "stars": 470,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:40:57.905Z",
+    "last_updated": "2026-09-13T19:54:00.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
