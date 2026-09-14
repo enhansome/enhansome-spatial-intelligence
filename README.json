@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2548,
+                "stars": 2550,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -398,7 +398,7 @@
                 "open_issues": 1,
                 "owner": "MasterHow",
                 "repo": "OneOcc",
-                "stars": 35,
+                "stars": 34,
                 "topics": [
                   "dataset",
                   "embodied-ai",
@@ -658,7 +658,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-04T07:25:00Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "RunsenXu",
                 "repo": "MV-JAR",
                 "stars": 46,
@@ -753,7 +753,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-11-18T04:46:15Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
                 "stars": 55,
@@ -1382,7 +1382,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-08-28T08:09:47Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Sense-X",
                 "repo": "GeoMIM",
                 "stars": 53,
@@ -1403,7 +1403,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-21T02:34:06Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
                 "stars": 1384,
@@ -1522,7 +1522,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2275,7 +2275,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 390,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2359,7 +2359,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-06-29T03:43:19Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
                 "stars": 265,
@@ -2404,7 +2404,7 @@
                 "open_issues": 6,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:54:00.705Z",
+    "last_updated": "2026-09-14T21:04:03.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
