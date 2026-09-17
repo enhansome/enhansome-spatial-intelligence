@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2556,
+                "stars": 2560,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 55,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 584,
+                "stars": 585,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -327,7 +327,7 @@
                 "open_issues": 2,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "4d-radar",
                   "dataset",
@@ -574,7 +574,7 @@
                 "open_issues": 21,
                 "owner": "chaytonmin",
                 "repo": "Occupancy-MAE",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -688,7 +688,7 @@
                 "open_issues": 21,
                 "owner": "chaytonmin",
                 "repo": "Occupancy-MAE",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:28:01.039Z",
+    "last_updated": "2026-09-17T20:35:24.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
