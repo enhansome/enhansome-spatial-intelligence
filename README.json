@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2559,
+                "stars": 2560,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 3,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:00:57.789Z",
+    "last_updated": "2026-09-19T19:37:06.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
@@ -2494,7 +2494,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-spatial-intelligence",
-      "stars": 154,
+      "stars": 155,
       "topics": [
         "3d",
         "4d",
