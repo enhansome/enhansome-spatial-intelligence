@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1384,
+                "stars": 1385,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2404,7 +2404,7 @@
                 "open_issues": 6,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2464,10 +2464,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-28T08:53:45Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 472,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:37:06.602Z",
+    "last_updated": "2026-09-20T19:50:39.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
