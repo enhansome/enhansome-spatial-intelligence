@@ -185,10 +185,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-11-17T09:57:02Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 211,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 267,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:50:39.942Z",
+    "last_updated": "2026-09-21T21:15:38.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
