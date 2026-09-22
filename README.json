@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2560,
+                "stars": 2559,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -262,7 +262,7 @@
                 "open_issues": 2,
                 "owner": "WHU-USI3DV",
                 "repo": "WHU-Railway3D",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "dataset"
                 ]
@@ -285,7 +285,7 @@
                 "open_issues": 8,
                 "owner": "ORCAUBOAT",
                 "repo": "FloW-Dataset",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -442,7 +442,7 @@
                 "open_issues": 19,
                 "owner": "facebookresearch",
                 "repo": "PointContrast",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -484,7 +484,7 @@
                 "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "ContrastiveSceneContexts",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -990,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "zubair-irshad",
                 "repo": "NeRF-MAE",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "3d",
                   "3d-deep-learning",
@@ -1091,7 +1091,7 @@
                 "open_issues": 7,
                 "owner": "ZrrSkywalker",
                 "repo": "I2P-MAE",
-                "stars": 230,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 586,
+                "stars": 587,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2223,7 +2223,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 586,
+                "stars": 587,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2401,10 +2401,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-31T15:00:36Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ucaszyp",
                 "repo": "World4Drive",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:15:38.378Z",
+    "last_updated": "2026-09-22T20:30:08.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
