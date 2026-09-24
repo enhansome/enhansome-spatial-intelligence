@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2566,
+                "stars": 2569,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1522,7 +1522,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 208,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1585,7 +1585,7 @@
                 "open_issues": 1,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1940,7 +1940,7 @@
                 "open_issues": 4,
                 "owner": "Yan98",
                 "repo": "Event-Camera-Data-Dense-Pre-training",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805,
+                "stars": 806,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2275,7 +2275,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 208,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:42:56.912Z",
+    "last_updated": "2026-09-24T20:48:40.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
