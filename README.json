@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2572,
+                "stars": 2574,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 55,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -1627,7 +1627,7 @@
                 "open_issues": 1,
                 "owner": "hustvl",
                 "repo": "GaussTR",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:13:18.159Z",
+    "last_updated": "2026-09-27T20:28:10.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
