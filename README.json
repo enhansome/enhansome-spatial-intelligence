@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2576,
+                "stars": 2578,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -188,7 +188,7 @@
                 "open_issues": 12,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -709,7 +709,7 @@
                 "open_issues": 4,
                 "owner": "zllxot",
                 "repo": "CORE",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "autonomous-driving",
                   "multi-agent-perception",
@@ -1606,7 +1606,7 @@
                 "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 383,
+                "stars": 384,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:38:59.563Z",
+    "last_updated": "2026-09-29T21:32:22.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
