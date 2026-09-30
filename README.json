@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2578,
+                "stars": 2579,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -377,7 +377,7 @@
                 "open_issues": 3,
                 "owner": "xifen523",
                 "repo": "OmniTrack",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 55,
+                "stars": 57,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -2241,7 +2241,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
                 "stars": 807,
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:32:22.234Z",
+    "last_updated": "2026-09-30T21:32:54.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
