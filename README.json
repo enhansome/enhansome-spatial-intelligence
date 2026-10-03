@@ -237,7 +237,7 @@
                 "open_issues": 2,
                 "owner": "akharroubi",
                 "repo": "Rail3D",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "change-detection",
                   "machine-learning",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:42.976Z",
+    "last_updated": "2026-10-03T20:14:00.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
