@@ -188,7 +188,7 @@
                 "open_issues": 12,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -327,7 +327,7 @@
                 "open_issues": 2,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "4d-radar",
                   "dataset",
@@ -1501,7 +1501,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2223,7 +2223,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2425,7 +2425,7 @@
                 "open_issues": 7,
                 "owner": "liulin815",
                 "repo": "DriveWorld-VLA",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 4,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 472,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:14:00.642Z",
+    "last_updated": "2026-10-04T20:30:05.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
