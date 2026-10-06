@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2590,
+                "stars": 2592,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -185,7 +185,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-11-17T09:57:02Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
                 "stars": 216,
@@ -1995,7 +1995,7 @@
                 "open_issues": 14,
                 "owner": "runnanchen",
                 "repo": "CLIP2Scene",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:22:31.545Z",
+    "last_updated": "2026-10-06T10:41:54.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
