@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2592,
+                "stars": 2594,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "RuiXing123",
                 "repo": "PDT_CWC_YOLO-DP",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:54:43.049Z",
+    "last_updated": "2026-10-07T22:18:13.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
