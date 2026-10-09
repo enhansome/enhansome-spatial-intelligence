@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2595,
+                "stars": 2597,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -188,7 +188,7 @@
                 "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -523,7 +523,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-03-15T06:31:54Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "JIA-Lab-research",
                 "repo": "GroupContrast",
                 "stars": 45,
@@ -1151,7 +1151,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-06-11T05:58:57Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "chenhaomingbob",
                 "repo": "CSC",
                 "stars": 17,
@@ -1472,7 +1472,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:29:05Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
                 "stars": 353,
@@ -1722,7 +1722,7 @@
                 "open_issues": 3,
                 "owner": "hollow-503",
                 "repo": "UniM2AE",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 154,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 393,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 4,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 474,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:30:43.858Z",
+    "last_updated": "2026-10-09T21:53:19.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
