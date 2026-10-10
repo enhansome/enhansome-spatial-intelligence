@@ -846,7 +846,7 @@
                 "open_issues": 2,
                 "owner": "valeoai",
                 "repo": "UNIT",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1360,7 +1360,7 @@
                 "open_issues": 26,
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 705,
+                "stars": 706,
                 "topics": [
                   "3d-object-detection",
                   "3d-occupancy",
@@ -1451,7 +1451,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-09-05T12:27:37Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "huang-yh",
                 "repo": "SelfOcc",
                 "stars": 389,
@@ -1501,7 +1501,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2223,7 +2223,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2296,7 +2296,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 4,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 475,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:53:19.431Z",
+    "last_updated": "2026-10-10T20:44:11.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
