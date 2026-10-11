@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1475,7 +1475,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -1501,7 +1501,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 590,
+                "stars": 591,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1764,7 +1764,7 @@
                 "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2223,7 +2223,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 590,
+                "stars": 591,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 392,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 4,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 474,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:44:11.169Z",
+    "last_updated": "2026-10-11T21:05:50.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
