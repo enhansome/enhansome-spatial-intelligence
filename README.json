@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2600,
+                "stars": 2602,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1385,
+                "stars": 1386,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -1606,7 +1606,7 @@
                 "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 385,
+                "stars": 386,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2464,7 +2464,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-28T08:53:45Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
                 "stars": 473,
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:59:40.343Z",
+    "last_updated": "2026-10-14T21:00:09.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
