@@ -394,11 +394,11 @@
                 "id": 1090765085,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2025-11-06T05:46:57Z",
+                "last_commit": "2026-10-16T00:45:23Z",
                 "open_issues": 1,
                 "owner": "MasterHow",
                 "repo": "OneOcc",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "dataset",
                   "embodied-ai",
@@ -1360,7 +1360,7 @@
                 "open_issues": 26,
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "3d-object-detection",
                   "3d-occupancy",
@@ -1606,7 +1606,7 @@
                 "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:33:58.274Z",
+    "last_updated": "2026-10-16T20:07:23.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
