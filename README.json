@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2608,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 55,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1585,7 +1585,7 @@
                 "open_issues": 2,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:55:47.283Z",
+    "last_updated": "2026-10-22T20:51:33.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
