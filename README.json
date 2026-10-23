@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2611,
+                "stars": 2615,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -109,7 +109,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2022-07-22T02:34:45Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
                 "stars": 589,
@@ -327,7 +327,7 @@
                 "open_issues": 2,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "4d-radar",
                   "dataset",
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1454,7 +1454,7 @@
                 "open_issues": 19,
                 "owner": "huang-yh",
                 "repo": "SelfOcc",
-                "stars": 389,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2442,9 +2442,9 @@
                 "id": 1192582800,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-04-26T04:51:01Z",
+                "last_commit": "2026-10-23T16:30:41Z",
                 "open_issues": 4,
-                "owner": "LogosRoboticsGroup",
+                "owner": "LogosIntelligenceLab",
                 "repo": "UniWorldVLA",
                 "stars": 30,
                 "topics": []
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:51:33.749Z",
+    "last_updated": "2026-10-23T20:40:29.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
