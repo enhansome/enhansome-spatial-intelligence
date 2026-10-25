@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2617,
+                "stars": 2619,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1112,7 +1112,7 @@
                 "open_issues": 8,
                 "owner": "youquanl",
                 "repo": "Segment-Any-Point-Cloud",
-                "stars": 637,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1387,
+                "stars": 1386,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:52:02.527Z",
+    "last_updated": "2026-10-25T20:01:10.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
