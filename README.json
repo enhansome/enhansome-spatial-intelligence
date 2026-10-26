@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2619,
+                "stars": 2622,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 56,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -237,7 +237,7 @@
                 "open_issues": 2,
                 "owner": "akharroubi",
                 "repo": "Rail3D",
-                "stars": 68,
+                "stars": 67,
                 "topics": [
                   "change-detection",
                   "machine-learning",
@@ -262,7 +262,7 @@
                 "open_issues": 2,
                 "owner": "WHU-USI3DV",
                 "repo": "WHU-Railway3D",
-                "stars": 185,
+                "stars": 184,
                 "topics": [
                   "dataset"
                 ]
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1560,7 +1560,7 @@
                 "id": 891281965,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T15:23:12Z",
+                "last_commit": "2026-10-26T07:07:38Z",
                 "open_issues": 12,
                 "owner": "Public-BOTs",
                 "repo": "GaussianPretrain",
@@ -1606,7 +1606,7 @@
                 "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 854,
+                "stars": 855,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2244,7 +2244,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 808,
+                "stars": 809,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:01:10.518Z",
+    "last_updated": "2026-10-26T21:56:04.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
