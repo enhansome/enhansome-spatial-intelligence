@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2623,
+                "stars": 2626,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -188,7 +188,7 @@
                 "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -324,7 +324,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-10-10T15:13:36Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
                 "stars": 193,
@@ -1809,7 +1809,7 @@
                 "open_issues": 1,
                 "owner": "princeton-computational-imaging",
                 "repo": "LRS4Fusion",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "3d-perception",
                   "autonomous-driving",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:29:48.280Z",
+    "last_updated": "2026-10-28T21:54:59.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
