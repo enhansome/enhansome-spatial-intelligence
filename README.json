@@ -42,7 +42,7 @@
                 "open_issues": 21,
                 "owner": "adept-thu",
                 "repo": "Dual-Radar",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2626,
+                "stars": 2627,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -188,7 +188,7 @@
                 "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -237,7 +237,7 @@
                 "open_issues": 2,
                 "owner": "akharroubi",
                 "repo": "Rail3D",
-                "stars": 67,
+                "stars": 69,
                 "topics": [
                   "change-detection",
                   "machine-learning",
@@ -324,7 +324,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-10-10T15:13:36Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "WaterScenes",
                 "repo": "WaterScenes",
                 "stars": 193,
@@ -356,7 +356,7 @@
                 "open_issues": 3,
                 "owner": "yyuanwang1010",
                 "repo": "MVDD13",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2016,7 +2016,7 @@
                 "open_issues": 18,
                 "owner": "pengsongyou",
                 "repo": "openscene",
-                "stars": 856,
+                "stars": 857,
                 "topics": [
                   "3d-scene-understanding",
                   "clip",
@@ -2317,7 +2317,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 398,
+                "stars": 399,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 5,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:54:59.247Z",
+    "last_updated": "2026-10-29T22:03:06.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
