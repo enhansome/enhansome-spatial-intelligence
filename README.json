@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2635,
+                "stars": 2636,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 56,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -1307,7 +1307,7 @@
                 "open_issues": 2,
                 "owner": "LiljaAdam",
                 "repo": "gasp",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1722,7 +1722,7 @@
                 "open_issues": 3,
                 "owner": "hollow-503",
                 "repo": "UniM2AE",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2090,7 +2090,7 @@
                 "open_issues": 9,
                 "owner": "nv-dvl",
                 "repo": "segment-anything-lidar",
-                "stars": 196,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 5,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:35:29.785Z",
+    "last_updated": "2026-11-04T22:55:05.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
