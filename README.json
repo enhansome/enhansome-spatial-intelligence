@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2640,
+                "stars": 2641,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "RuiXing123",
                 "repo": "PDT_CWC_YOLO-DP",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1386,
+                "stars": 1388,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -1501,7 +1501,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1781,7 +1781,7 @@
                 "id": 921468271,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-12T03:05:38Z",
+                "last_commit": "2026-11-08T03:55:45Z",
                 "open_issues": 3,
                 "owner": "LMD0311",
                 "repo": "HERMES",
@@ -2223,7 +2223,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 5,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 480,
+                "stars": 479,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:05:38.211Z",
+    "last_updated": "2026-11-08T21:23:11.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
@@ -2494,7 +2494,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-spatial-intelligence",
-      "stars": 156,
+      "stars": 157,
       "topics": [
         "3d",
         "4d",
