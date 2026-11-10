@@ -42,7 +42,7 @@
                 "open_issues": 21,
                 "owner": "adept-thu",
                 "repo": "Dual-Radar",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -188,7 +188,7 @@
                 "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 226,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -920,7 +920,7 @@
                 "open_issues": 7,
                 "owner": "tarashakhurana",
                 "repo": "4d-occ-forecasting",
-                "stars": 251,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 593,
+                "stars": 594,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2223,7 +2223,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 593,
+                "stars": 594,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2463,11 +2463,11 @@
                 "id": 1225134839,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-05-28T08:53:45Z",
+                "last_commit": "2026-11-09T09:10:27Z",
                 "open_issues": 5,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:23:11.991Z",
+    "last_updated": "2026-11-10T00:52:13.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
