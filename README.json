@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2643,
+                "stars": 2645,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -637,7 +637,7 @@
                 "open_issues": 7,
                 "owner": "PJLab-ADG",
                 "repo": "3DTrans",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "3d-da",
                   "3d-pretraining"
@@ -1433,7 +1433,7 @@
                 "open_issues": 5,
                 "owner": "chaytonmin",
                 "repo": "UniScene",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1454,7 +1454,7 @@
                 "open_issues": 19,
                 "owner": "huang-yh",
                 "repo": "SelfOcc",
-                "stars": 388,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 595,
+                "stars": 596,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1522,7 +1522,7 @@
                 "open_issues": 11,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2087,7 +2087,7 @@
                 "language": null,
                 "license": "GPL-3.0",
                 "last_commit": "2025-02-03T21:45:08Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "nv-dvl",
                 "repo": "segment-anything-lidar",
                 "stars": 197,
@@ -2223,7 +2223,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 595,
+                "stars": 596,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2275,7 +2275,7 @@
                 "open_issues": 11,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2296,7 +2296,7 @@
                 "open_issues": 6,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2338,7 +2338,7 @@
                 "open_issues": 7,
                 "owner": "PJLab-ADG",
                 "repo": "3DTrans",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "3d-da",
                   "3d-pretraining"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 276,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2383,7 +2383,7 @@
                 "open_issues": 1,
                 "owner": "YimingYang23",
                 "repo": "FASTopoWM",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:34:24.795Z",
+    "last_updated": "2026-11-11T23:43:45.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
