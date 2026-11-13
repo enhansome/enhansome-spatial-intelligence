@@ -894,7 +894,7 @@
                 "open_issues": 1,
                 "owner": "ucla-mobility",
                 "repo": "TurboTrain",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "autonomous-driving",
                   "multi-agent-system",
@@ -1627,7 +1627,7 @@
                 "open_issues": 1,
                 "owner": "hustvl",
                 "repo": "GaussTR",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:53:58.008Z",
+    "last_updated": "2026-11-13T22:55:45.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
