@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2646,
+                "stars": 2649,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -285,7 +285,7 @@
                 "open_issues": 8,
                 "owner": "ORCAUBOAT",
                 "repo": "FloW-Dataset",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -637,7 +637,7 @@
                 "open_issues": 7,
                 "owner": "PJLab-ADG",
                 "repo": "3DTrans",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "3d-da",
                   "3d-pretraining"
@@ -920,7 +920,7 @@
                 "open_issues": 7,
                 "owner": "tarashakhurana",
                 "repo": "4d-occ-forecasting",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2338,7 +2338,7 @@
                 "open_issues": 7,
                 "owner": "PJLab-ADG",
                 "repo": "3DTrans",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "3d-da",
                   "3d-pretraining"
@@ -2362,7 +2362,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2467,7 +2467,7 @@
                 "open_issues": 5,
                 "owner": "xiaomi-research",
                 "repo": "onevl",
-                "stars": 480,
+                "stars": 481,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:41:25.776Z",
+    "last_updated": "2026-11-15T22:07:29.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
