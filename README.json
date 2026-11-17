@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2649,
+                "stars": 2650,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 56,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 590,
+                "stars": 592,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -188,7 +188,7 @@
                 "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -237,7 +237,7 @@
                 "open_issues": 2,
                 "owner": "akharroubi",
                 "repo": "Rail3D",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "change-detection",
                   "machine-learning",
@@ -285,7 +285,7 @@
                 "open_issues": 8,
                 "owner": "ORCAUBOAT",
                 "repo": "FloW-Dataset",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -442,7 +442,7 @@
                 "open_issues": 19,
                 "owner": "facebookresearch",
                 "repo": "PointContrast",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1112,7 +1112,7 @@
                 "open_issues": 8,
                 "owner": "youquanl",
                 "repo": "Segment-Any-Point-Cloud",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1475,7 +1475,7 @@
                 "open_issues": 15,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -1501,7 +1501,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2223,7 +2223,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2244,7 +2244,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:07:29.931Z",
+    "last_updated": "2026-11-17T01:07:12.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
