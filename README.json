@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2650,
+                "stars": 2652,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T00:02:18.245Z",
+    "last_updated": "2026-11-18T23:37:22.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
