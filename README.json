@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2654,
+                "stars": 2656,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -112,7 +112,7 @@
                 "open_issues": 56,
                 "owner": "QingyongHu",
                 "repo": "SensatUrban",
-                "stars": 591,
+                "stars": 592,
                 "topics": [
                   "benchmark",
                   "city-modeling",
@@ -188,7 +188,7 @@
                 "open_issues": 13,
                 "owner": "sijieaaa",
                 "repo": "UAVScenes",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1112,7 +1112,7 @@
                 "open_issues": 8,
                 "owner": "youquanl",
                 "repo": "Segment-Any-Point-Cloud",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1388,
+                "stars": 1389,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -2425,7 +2425,7 @@
                 "open_issues": 7,
                 "owner": "liulin815",
                 "repo": "DriveWorld-VLA",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:55:05.558Z",
+    "last_updated": "2026-11-20T23:24:45.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
