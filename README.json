@@ -70,7 +70,7 @@
                 "open_issues": 51,
                 "owner": "VisDrone",
                 "repo": "VisDrone-Dataset",
-                "stars": 2657,
+                "stars": 2659,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1360,7 +1360,7 @@
                 "open_issues": 26,
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "3d-object-detection",
                   "3d-occupancy",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:27:51.073Z",
+    "last_updated": "2026-11-22T22:51:14.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
