@@ -1606,7 +1606,7 @@
                 "open_issues": 2,
                 "owner": "GANWANSHUI",
                 "repo": "GaussianOcc",
-                "stars": 389,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:29:09.494Z",
+    "last_updated": "2026-11-25T01:38:22.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
