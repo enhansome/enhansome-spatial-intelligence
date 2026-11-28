@@ -1307,7 +1307,7 @@
                 "open_issues": 2,
                 "owner": "LiljaAdam",
                 "repo": "gasp",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -1406,7 +1406,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Birds-eye-view-Perception",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": [
                   "autonomous-driving",
                   "birds-eye-view",
@@ -1433,7 +1433,7 @@
                 "open_issues": 5,
                 "owner": "chaytonmin",
                 "repo": "UniScene",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:23.391Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:10:07.496Z",
+    "last_updated": "2026-11-28T00:42:15.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
